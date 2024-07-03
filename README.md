@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Kotlin, Python and Pandas**
 
-- 📫 How to reach me **isa.martinez_galindo@outlook.com**
+- 📫 How to reach me **isamgalindo2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
