@@ -5,11 +5,9 @@
 
 
 
-- 🔭 I’m currently studing in **University of Los Andes**
+- 🔭 Graduated from **University of Los Andes**
 
-- 🌱 I’m currently learning **Swift**
-
-- 💬 Ask me about **Kotlin, Python and Pandas**
+- 💬 Ask me about **Kotlin, Python, Pandas and Next.js**
 
 - 📫 How to reach me **isamgalindo2002@gmail.com**
 
